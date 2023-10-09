@@ -1,0 +1,20 @@
+.rodape {
+    display: flex;
+    background-image: url('./../../../public/img/fundo.png');
+    background-color: #6278F7;
+    height: 213px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lista-rodape {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.texto-rodape {
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
